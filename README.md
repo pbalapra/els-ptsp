@@ -1,5 +1,5 @@
 Estimation-based Local Search for the Probabilistic Traveling Salesman Problem
-
+==========
 
 This software package provides a reasonably high performing implementation of estimation-based local search (iterative improvement) algorithm to tackle the Probabilistic Traveling Salesman Problem (PTSP).
 
@@ -13,5 +13,8 @@ P. Balaprakash, M. Birattari, T. Stützle, and M. Dorigo. Adaptive sample size a
 
 M. Birattari, P. Balaprakash, T. Stützle, and M. Dorigo. Estimation-based local search for stochastic combinatorial optimization using delta evaluations: A case study in the probabilistic traveling salesman problem. INFORMS Journal on Computing, 20(4):644-658, 2008.
 
-Note: Developed under Linux; Implementation in C; Uses GNU Scientific Library
+Implementation
+==============
+
+Developed under Linux; Implementation in C; Uses GNU Scientific Library
 
