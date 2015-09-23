@@ -48,13 +48,13 @@ This is the README file to the software package ELS-PTSP.
 This software package was developed by Prasanna Balaprakash in
 connection with his research articles:
 
-# P. Balaprakash, M. Birattari, T. Stuetzle, and M. Dorigo (2008):
+ P. Balaprakash, M. Birattari, T. Stuetzle, and M. Dorigo (2008):
   Adaptive sample size and importance sampling in the estimation-based
   local search for the probabilistic traveling salesman
   problem. (European Journal of Operational Research)
 
 
-# M. Birattari, P. Balaprakash, T. Stuetzle, and M. Dorigo (2008):
+ M. Birattari, P. Balaprakash, T. Stuetzle, and M. Dorigo (2008):
   Estimation-based local search for stochastic combinatorial
   optimization using delta evaluations: A case study in the
   probabilistic traveling salesman problem. (INFORMS Journal of
